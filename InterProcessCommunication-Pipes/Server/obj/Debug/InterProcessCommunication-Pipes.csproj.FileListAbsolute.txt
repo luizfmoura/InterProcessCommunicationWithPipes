@@ -1,0 +1,1 @@
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\InterProcessCommunication-Pipes\bin\Debug\InterProcessCommunication-Pipes.exe.config

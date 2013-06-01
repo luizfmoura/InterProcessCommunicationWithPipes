@@ -1,0 +1,14 @@
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Client.exe.config
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Client.exe
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Client.pdb
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.Properties.Resources.resources
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.exe
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.pdb
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Dongle.dll
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Newtonsoft.Json.dll
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\Newtonsoft.Json.xml
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\es-ES\Dongle.resources.dll
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\bin\Debug\pt-BR\Dongle.resources.dll
+P:\Visual Studio 2012\Projects\InterProcessCommunication-Pipes\Client\obj\Debug\Client.MainForm.resources

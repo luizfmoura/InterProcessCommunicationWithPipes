@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Dongle</id>
+    <version>0.10.39</version>
+    <title>Dongle</title>
+    <authors>Webbers Team</authors>
+    <owners>Webbers Team</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A boosted util library
+Conjunto de funções úteis que são uma mão na roda no dia-a-dia do programador .NET</description>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.5.10" />
+    </dependencies>
+  </metadata>
+</package>
